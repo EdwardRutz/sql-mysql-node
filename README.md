@@ -1,4 +1,4 @@
-# NodeJS with MySQL
+# SQL with MySQL and Node.js
 
 > Demo using SQL on a MySQL database with node.js.
 
