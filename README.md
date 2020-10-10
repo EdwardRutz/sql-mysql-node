@@ -1,6 +1,6 @@
 # SQL with MySQL and Node.js
 
-> Demo using SQL on a MySQL database with node.js.
+> A demo using SQL on a MySQL database with node.js.
 
 
 
